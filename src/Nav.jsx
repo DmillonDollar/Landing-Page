@@ -4,7 +4,7 @@ const Nav = () => {
   return (
     <div>
         <div>
-            <h1>iMovies</h1>
+            <h1 className='poppins-thin'>iMovies</h1>
         </div>
 
         <div>
